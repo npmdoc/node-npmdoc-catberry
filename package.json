@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "api documentation for [catberry (v9.0.0)](https://github.com/catberry/catberry) [![npm package](https://img.shields.io/npm/v/npmdoc-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-catberry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-catberry)",
+    "description": "#### basic api documentation for  [catberry (v9.0.0)](https://github.com/catberry/catberry)  [![npm package](https://img.shields.io/npm/v/npmdoc-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-catberry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-catberry)",
     "devDependencies": {
         "catberry": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

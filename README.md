@@ -1,4 +1,7 @@
-# api documentation for  [catberry (v9.0.0)](https://github.com/catberry/catberry)  [![npm package](https://img.shields.io/npm/v/npmdoc-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-catberry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-catberry)
+# npmdoc-catberry
+
+#### basic api documentation for  [catberry (v9.0.0)](https://github.com/catberry/catberry)  [![npm package](https://img.shields.io/npm/v/npmdoc-catberry.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-catberry) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-catberry.svg)](https://travis-ci.org/npmdoc/node-npmdoc-catberry)
+
 #### Catberry is an isomorphic framework for building universal front-end apps using components, Flux architecture and progressive rendering.
 
 [![NPM](https://nodei.co/npm/catberry.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/catberry)
@@ -132,7 +135,8 @@
     "scripts": {
         "test": "make"
     },
-    "version": "9.0.0"
+    "version": "9.0.0",
+    "bin": {}
 }
 ```
 
